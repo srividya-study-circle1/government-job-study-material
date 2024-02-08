@@ -1,0 +1,98 @@
+@media (max-width: 767px){
+.td-container, .tdc-row, .tdc-row-composer {
+    width: 100%;
+    padding-left: 20px;
+    padding-right: 20px;
+}}
+.td-container, .tdc-row, .tdc-row-composer {
+    width: 1068px;
+    margin-right: auto;
+    margin-left: auto;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+ 
+div {
+    display: block;
+}
+body {
+    font-family: Verdana,BlinkMacSystemFont,-apple-system,segoe ui,Roboto,Oxygen,Ubuntu,Cantarell,open sans,helvetica neue,sans-serif;
+    font-size: 14px;
+    line-height: 21px;
+}
+ 
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+.td-container:before, .tdc-row:before, .tdc-row-composer:before, .td-container:after, .tdc-row:after, .tdc-row-composer:after {
+    display: table;
+    content: '';
+    line-height: 0;
+}
+.td-post-content table {
+    margin-bottom: 21px;
+}
+table.blueTableHeaderLess {
+    border: 1px solid #1C6EA4;
+    background-color: #EEE;
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+table {
+    width: 100%;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+ 
+table {
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    border-spacing: 2px;
+    border-color: grey;
+}
+.tagdiv-type {
+    font-size: 15px;
+    line-height: 1.74;
+    color: #222;
+}
+body {
+    font-family: Verdana,BlinkMacSystemFont,-apple-system,segoe ui,Roboto,Oxygen,Ubuntu,Cantarell,open sans,helvetica neue,sans-serif;
+    font-size: 14px;
+    line-height: 21px;
+}
+ 
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+ 
